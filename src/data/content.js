@@ -34,10 +34,9 @@ export const CHAIRMAN = {
 }
 
 export const TEAM = [
-  { name: 'Daffa Adli', role: 'PR Manager', initials: 'DA', icon: Megaphone },
-  { name: 'Yuliandri', role: 'Researcher', initials: 'YU', icon: FlaskConical },
+  { name: 'Daffa Adli Yuliandri', role: 'PR Manager', initials: 'DA', icon: Megaphone },
   { name: 'Amri Ihsan Yasa', role: 'Researcher', initials: 'AY', icon: FlaskConical },
-  { name: 'Maulana Nadhif Alwahas', role: 'Marketing', initials: 'MN', icon: TrendingUp },
+  { name: 'Maulana Nadhif Alwahas', role: 'Designer', initials: 'MN', icon: TrendingUp },
 ]
 
 export const VALUES = [
@@ -64,7 +63,7 @@ export const VALUES = [
 ]
 
 export const CONTACT = {
-  person: 'Daffa Adli',
+  person: 'Daffa Adli Yuliandri',
   role: 'PR Manager',
   email: 'contact@yourdreamisreal.com',
   phone: '+62 21 1234 5678',
